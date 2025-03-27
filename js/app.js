@@ -1,6 +1,6 @@
 //OBJETOS
 
-$(document).ready( app() );
+$(document).ready( app );
 
 function app() {
 
